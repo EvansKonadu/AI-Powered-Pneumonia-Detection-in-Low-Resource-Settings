@@ -6,7 +6,7 @@ Pneumonia remains the leading infectious cause of mortality among children under
 
 <img width="610" height="607" alt="Pnumonia Unicef" src="https://github.com/user-attachments/assets/04a140e4-e328-46ac-acf9-3ce8a43b5bc0" />
 
-**Picture source:** *UNICEF, "A child dies of Pneumonia every 43 seconds globally," Instagram, Nov. 17, 2024. [Online]. Available: https://www.instagram.com/p/DCd4KmqI3bg/ [Accessed September 9, 2025].*
+**Image source:** *UNICEF, "A child dies of Pneumonia every 43 seconds globally," Instagram, Nov. 17, 2024. [Online]. Available: https://www.instagram.com/p/DCd4KmqI3bg/ [Accessed September 9, 2025].*
 
 --------
 ----------
