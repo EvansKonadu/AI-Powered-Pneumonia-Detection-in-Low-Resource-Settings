@@ -1,1 +1,0 @@
-The Mendeley Chest X-ray dataset was used with its pre-existing train-test split. An internal validation set was derived by allocating 10% of the training data, resulting in a three-way partition: train, validation, and test.
