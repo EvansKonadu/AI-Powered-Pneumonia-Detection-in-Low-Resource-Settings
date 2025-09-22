@@ -23,8 +23,8 @@ IEEE CVPR 2017.
 A paediatric dataset containing **5,856** chest X-ray images curated by Kermany et al. (2018), sourced from Guangzhou Women and Children's Medical Centre.
 
 - **Composition**:  
-  - **4,672** pneumonia cases  
-  - **1,184** normal cases  
+  - **4,273** pneumonia cases  
+  - **1,583** normal cases  
 - **Advantage**: High pneumonia prevalence (**79.8%**) and paediatric-specific imaging characteristics.
 - **Download Source**: Directly from Mendeley Data repository (Version 3).
 
