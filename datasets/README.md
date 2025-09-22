@@ -6,7 +6,7 @@ This repository uses two publicly available chest X-ray datasets to train and ev
 
 A large-scale dataset comprising **112,120** frontal-view chest X-ray images from **30,805** unique patients, developed by Wang et al. (2017). It includes 14 thoracic disease labels, with multi-label annotations per image.
 
-- **Challenge**: Severe under-representation of pneumonia cases, with a class imbalance ratio of approximately **1:42**.
+- **Challenge**: Severe under-representation of pneumonia cases, with a class imbalance ratio of approximately **42:1** *(noraml vs. pneumonia)*.
 
 **Citation**:  
 Wang X, Peng Y, Lu L, Lu Z, Bagheri M, Summers RM.  
