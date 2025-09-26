@@ -13,5 +13,4 @@ Supervisor: Prof. Dimitrios Makris
 
 ------------------
 
-MSc Dissertation & Presentation: [`dissertation_deliverables`](./dissertation_deliverables)
-
+Kingston University London
